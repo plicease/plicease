@@ -1,8 +1,10 @@
 # Graham THE Ollis
 
- * 🖥️ I am a software engineer.
+ * 🖥️ I am a software engineer 💻
  * 🦕 I like Dinosaurs 🦖
- * 🐊 ...and crocodiles
+ * 🐊 ...and crocodiles 🐊
+ * 📗 Love reading Jasper Fforde 📘
+ * 🦘 Relocated Sydneysider 🐨
 
 I am a Perl programmer.  In my spare time I work on these Perl related projects:
 
