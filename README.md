@@ -19,7 +19,7 @@ For bugs in these projects please open an issue or PR for the corresponding GitH
  * [On the #native channel on irc.perl.org](https://kiwiirc.com/nextclient/#irc://irc.perl.org/#native?nick=mc-guest-?)
  * [On Twitter](https://twitter.com/plicease)
 
-I practice kindness-oriented programming so if you are rude or abusive to other people in any of my projects you will be blocked.
+I practice kindness-oriented programming so if you are rude or abusive to myself, or other people in any of my projects you will be blocked.
 
 I also have an email address associated with my CPAN user id that you can probably figure out.  Please use it only
 as a last resort if one of the other channels is not available as I am not very good at email.
