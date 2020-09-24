@@ -8,7 +8,7 @@
 
 I am a Perl programmer.  In my spare time I work on these Perl related projects:
 
- * [Platypus](https://metacpan.org/pod/FFI::Platypus), a foreign function interface for Perl that allows developers to call compiled code in compiled languages like C, Rust or Go.
+ * [Platypus](https://metacpan.org/pod/FFI::Platypus), a foreign function interface for Perl that allows developers to call functions in compiled languages like C, Rust or Go.
    All without having to write any XS.
  * [Alien](https://metacpan.org/pod/Alien), and [Alien-Build](https://metacpan.org/pod/distribution/Alien-Build/lib/Alien/Build/Manual/Alien.pod), a toolkit for creating and using non-Perl depndencies for [CPAN](https://metacpan.org)
  * [Perl Wasm](https://metacpan.org/pod/Wasm), for extending the Perl programming language with WebAssembly.
@@ -20,3 +20,6 @@ For bugs in these projects please open an issue or PR for the corresponding GitH
  * [On Twitter](https://twitter.com/plicease)
 
 I practice kindness-oriented programming so if you are rude or abusive to other people in any of my projects you will be blocked.
+
+I also have an email address associated with my CPAN user id that you can probably figure out.  Please use it only
+as a last resort if one of the other channels is not available as I am not very good at email.
