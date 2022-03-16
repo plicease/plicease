@@ -1,4 +1,4 @@
-# Graham THE Ollis
+# Graham THE Ollis 🇺🇦🌻
 
  * 🖥️ I am a software engineer 💻
  * 🦕 I like Dinosaurs 🦖
