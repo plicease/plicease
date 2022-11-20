@@ -17,6 +17,7 @@ I am a Perl programmer.  In my spare time I work on these Perl related projects:
 For bugs in these projects please open an issue or PR for the corresponding GitHub repository.  If you have questions about these projects, please feel free to contact me:
 
  * [On the #native channel on irc.perl.org](https://kiwiirc.com/nextclient/#irc://irc.perl.org/#native?nick=mc-guest-?)
+ * <a rel="me" href="https://mastodon.social/@plicease">Mastodon</a>
  * [On Twitter](https://twitter.com/plicease)
 
 I practice kindness-oriented programming so if you are rude or abusive to myself, or other people in any of my projects you will be blocked.
